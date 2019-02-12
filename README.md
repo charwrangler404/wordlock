@@ -1,2 +1,2 @@
 # wordlock
-Dictionary attack against a wordlock
+Dictionary attack against a wordlock using python
